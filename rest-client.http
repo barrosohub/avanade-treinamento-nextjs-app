@@ -1,0 +1,31 @@
+GET http://localhost:3000/api/prompt
+
+###
+
+POST http://localhost:3000/api/prompt
+Content-Type: application/json
+
+{ 
+    "title": "New Prompt 3",
+    "content": "This is a new prompt content 3"  
+}
+
+###
+
+PUT http://localhost:3000/api/prompt/
+Content-Type: application/json
+
+{ 
+    "id": "09ba425e-0357-499a-8867-a9a3c2de6fa5",
+    "title": "New Prompt 1",
+    "content": "This is a new prompt content 1"  
+}
+
+###
+
+DELETE http://localhost:3000/api/prompt
+Content-Type: application/json
+
+{ 
+    "id": "8c2eb653-3539-421a-8bce-d004629a1ecb"
+}
