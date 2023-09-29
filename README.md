@@ -20,18 +20,23 @@ cd avanade-treinamento-nextjs-app
 ```
 
 ### 1. 📝 Arquivos de Configuração:
+
+*(Esse arquivo **.env.local** precisa ser criado manualmente na raiz do projeto. Substitua [Connection_String_URI_Supabase] pelos valores que no seu banco Postgres que estão na sua conta Supabase)*
+
 - `.env.local`:
   ```plaintext
   NEXT_PUBLIC_URL_BASE=http://localhost:3000
-  DATABASE_URL=[SUA_URL_POSTGRES]?pgbouncer=true
-  DIRECT_URL=[SUA_URL_POSTGRES]
+  DATABASE_URL=[Connection_String_URI_Supabase]?pgbouncer=true
+  DIRECT_URL=[Connection_String_URI_Supabase]
   ```
+
+*(Esse arquivo **.env.production** já existe na raiz do projeto e não precisa de nenhuma modificaçao. As variáveis DATABASE_URL e DIRECT_URL você precisa cadastrar lá nas variáveis de ambiente do seu projeto na Vercel)*
 
 - `.env.production`:
   ```plaintext
   NEXT_PUBLIC_URL_BASE=https://${VERCEL_URL}
   DATABASE_URL=${DATABASE_URL}
-  DIRECT_URL=${DATABASE_URL}
+  DIRECT_URL=${DIRECT_URL}
   ```
 
 ### 2. 📦 Instalação de Dependências (Vamos pegar tudo o que precisamos!):
