@@ -30,7 +30,7 @@ cd avanade-treinamento-nextjs-app
   DIRECT_URL=[Connection_String_URI_Supabase]
   ```
 
-*(Esse arquivo **.env.production** já existe na raiz do projeto e não precisa de nenhuma modificaçao. As variáveis **DATABASE_URL** e **DIRECT_URL** você precisa cadastrar lá nas variáveis de ambiente do seu projeto na Vercel)*
+*(Esse arquivo **.env.production** já existe na raiz do projeto e não precisa de nenhuma modificação. As variáveis **DATABASE_URL** e **DIRECT_URL** você precisa cadastrar lá nas variáveis de ambiente do seu projeto na Vercel)*
 
 - `.env.production`:
   ```plaintext
