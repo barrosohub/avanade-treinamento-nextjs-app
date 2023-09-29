@@ -41,12 +41,12 @@ npm i
 npx dotenv -e .env.local -- npx prisma migrate dev --name init_db
 ```
 
-### 🖥️ Execução do Projeto em Ambiente Local:
+### 4. 🖥️ Execução do Projeto em Ambiente Local:
 ```bash
 npm run dev
 ```
 
-### 🚀 Execução com Build em Ambiente Local:
+### 5. 🚀 Execução com Build em Ambiente Local:
 ```bash
 npm run build && npm run start
 ```
