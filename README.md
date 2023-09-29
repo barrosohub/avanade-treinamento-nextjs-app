@@ -60,11 +60,11 @@ npm run build && npm run start
 ```
 
 ### 6. ☁️ Deploy na Vercel (Vamos para as nuvens!):
-- Criar um projeto na [Vercel](https://vercel.com/docs/projects/overview)
-- Após clonar o repositório do projeto, envie ele para seu Github pessoal. E depois, importe para a [Vercel](https://vercel.com/docs/getting-started-with-vercel/import)
-- Configurar as [variáveis de ambiente](https://vercel.com/docs/projects/environment-variables)
-- Configurar o build (conforme visto no vídeo super explicativo!)
-- Fazer o deploy (e ver a mágica acontecer! 🌟)
+- [Criar](https://vercel.com/docs/projects/overview) um projeto na Vercel
+- Após clonar o repositório do projeto, envie ele para seu Github pessoal. E depois, [importe](https://vercel.com/docs/getting-started-with-vercel/import) para a Vercel
+- [Configurar](https://vercel.com/docs/projects/environment-variables) as variáveis de ambiente
+- [Configurar](https://vercel.com/docs/deployments/configure-a-build) a build na Vercel *(conforme visto no vídeo super explicativo!)*
+- [Fazer o deploy](https://vercel.com/docs/deployments/git) para a Vercel (e ver a mágica acontecer! 🌟)
 
 ## 📚📖 Referências (Porque sempre é bom ter onde consultar!):
 - [Prisma e Supabase](https://www.prisma.io/docs/guides/database/supabase)
