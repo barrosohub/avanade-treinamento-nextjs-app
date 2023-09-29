@@ -74,5 +74,5 @@ npm run build && npm run start
 - [Supabase Official Site](https://supabase.com/)
 - [Prisma e Supabase](https://www.prisma.io/docs/guides/database/supabase)
 - [Deploy na Vercel](https://vercel.com/docs/deployments/git#deploying-a-git-repository)
-- [Como habilitar CORS na Vercel](https://vercel.com/guides/how-to-enable-cors)
+- [Como habilitar/configurar CORS no NextJS](https://vercel.com/guides/how-to-enable-cors#enabling-cors-in-a-next.js-app)
 
