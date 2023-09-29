@@ -68,8 +68,8 @@ npm run build && npm run start
 
 ## 📚📖 Referências (Porque sempre é bom ter onde consultar!):
 - [NextJS - App Router](https://nextjs.org/docs/app)
-- [Rotas Internas de API no NextJS 13+](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
-- [API de ações do servidor Next.js](https://nextjs.org/docs/app/api-reference/functions/server-actions)
+- [Rotas Internas de API no NextJS](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+- [Server Actions no Next.js](https://nextjs.org/docs/app/api-reference/functions/server-actions)
 - [Convenções de arquivo do Next.js](https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config)
 - [Supabase Official Site](https://supabase.com/)
 - [Prisma e Supabase](https://www.prisma.io/docs/guides/database/supabase)
