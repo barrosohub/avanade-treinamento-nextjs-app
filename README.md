@@ -1,6 +1,6 @@
 
 # 🎉 Projeto com Next.js e Prisma: Uma Aventura na Web!
-🎈 Bem-vindo(a) a este repositório super animado! 🎈 Este é um projeto de treinamento **interno** ministrado especificamente para a **Avanade Brasil**. Juntos, mergulhamos no maravilhoso mundo do Next.js e do Prisma para criar uma aplicação web cheia de energia e estilo! 💃🕺
+🎈 Bem-vindo(a) a este repositório! 🎈 Este é um projeto de treinamento **interno** ministrado especificamente para a **Avanade Brasil**. Juntos, mergulhamos no maravilhoso mundo do Next.js e do Prisma para criar uma aplicação web cheia de energia e estilo! 💃🕺
 
 ## 📌🔥 Pré-requisitos
 - Node.js (18.x ou superior) 🟢
