@@ -61,7 +61,7 @@ npm run build && npm run start
 
 ### 6. ☁️ Deploy na Vercel (Vamos para as nuvens!):
 - [Criar](https://vercel.com/docs/projects/overview) um projeto na Vercel
-- Após clonar o repositório do projeto, envie ele para seu Github pessoal. E depois, [importe](https://vercel.com/docs/getting-started-with-vercel/import) para a Vercel
+- Após clonar o repositório do projeto para sua máquina local, envie ele para seu Github pessoal. E depois, [importe](https://vercel.com/docs/getting-started-with-vercel/import) para a Vercel
 - [Configurar](https://vercel.com/docs/projects/environment-variables) as variáveis de ambiente
 - [Configurar](https://vercel.com/docs/deployments/configure-a-build) a build na Vercel *(conforme visto no vídeo super explicativo!)*
 - [Fazer o deploy](https://vercel.com/docs/deployments/git) para a Vercel *(e ver a mágica acontecer! 🌟)*
