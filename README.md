@@ -67,9 +67,12 @@ npm run build && npm run start
 - [Fazer o deploy](https://vercel.com/docs/deployments/git) para a Vercel *(e ver a mágica acontecer! 🌟)*
 
 ## 📚📖 Referências (Porque sempre é bom ter onde consultar!):
+- [NextJS - App Router](https://nextjs.org/docs/app)
+- [Rotas Internas de API](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+- [API de ações do servidor Next.js](https://nextjs.org/docs/app/api-reference/functions/server-actions)
+- [Convenções de arquivo do Next.js](https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config)
+- [Supabase Official Site](https://supabase.com/)
 - [Prisma e Supabase](https://www.prisma.io/docs/guides/database/supabase)
 - [Deploy na Vercel](https://vercel.com/docs/deployments/git#deploying-a-git-repository)
 - [Como habilitar CORS na Vercel](https://vercel.com/guides/how-to-enable-cors)
-- [Supabase Official Site](https://supabase.com/)
-- [API de ações do servidor Next.js](https://nextjs.org/docs/app/api-reference/functions/server-actions)
-- [Convenções de arquivo do Next.js](https://nextjs.org/docs/app/api-reference/file-conventions/route-segment-config)
+
