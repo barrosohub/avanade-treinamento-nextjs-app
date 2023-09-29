@@ -21,7 +21,7 @@ cd avanade-treinamento-nextjs-app
 
 ### 1. 📝 Arquivos de Configuração:
 
-*(Esse arquivo **.env.local** precisa ser criado manualmente na raiz do projeto. Substitua **[Connection_String_URI_Supabase]** pelos valores que tem nas configuraçao do seu banco Postgres que estão na sua conta Supabase)*
+*(Esse arquivo **.env.local** precisa ser criado manualmente na raiz do projeto. Após criar o arquivo, comece a editar ele e substitua **[Connection_String_URI_Supabase]** pelos valores que tem nas configuraçao do seu banco Postgres que estão na sua conta Supabase)*
 
 - `.env.local`:
   ```plaintext
