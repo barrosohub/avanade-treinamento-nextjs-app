@@ -10,7 +10,7 @@ import {
 
 import { textLimiter, toastDefaultTimeoutInMS } from "@/utils/utils";
 import { useCallback, useState, useRef, useEffect } from "react";
-import { deletePrompt } from "@/app/components/prompt_cards_list/actions";
+import { deletePrompt } from "@/components/prompt_cards_list/actions";
 
 const Toaster = ({title}) => {
   return (

@@ -1,7 +1,7 @@
 export const dynamic = 'force-dynamic';
 
-import PromptCardsList from "./components/prompt_cards_list";
-import PromptTextArea from "./components/prompt_register";
+import PromptCardsList from "@/components/prompt_cards_list";
+import PromptTextArea from "@/components/prompt_register";
 
 export default function Home() {
   return (
